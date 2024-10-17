@@ -90,6 +90,11 @@ This tool uses the following models and resources:
 - **[Sentence Transformers](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)**
   
 ---
+## Collaborators
+
+- Piyush Hambarde 👻
+- Niyath Nair 😸
+
 
 Feel free to reach out for any questions or issues related to this project. Happy querying!
 ---
