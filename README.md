@@ -48,11 +48,11 @@ python main.py --data-directory "./data" --llm-model "meta-llama/Llama-2-7b-chat
 
 ### Input Example:
 
-![Input Example](path_to_input_image)
+![Input Example](Images/Q1.png)
 
 ### Output Example:
 
-![Output Example](path_to_output_image)
+![Output Example](Images/RoPE.png)
 
 ## Directory Structure
 
