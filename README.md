@@ -43,7 +43,7 @@ python main.py --data-directory "./data" --llm-model "meta-llama/Llama-2-7b-chat
 ### Example Query:
 
 \`\`\`bash
-python main.py --data-directory "./data" --llm-model "meta-llama/Llama-2-7b-chat-hf" --embed-model "sentence-transformers/all-mpnet-base-v2" --hf-api "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" --query "What are the number of parameters in LLaMA"
+python main.py --data-directory "./data" --llm-model "meta-llama/Llama-2-7b-chat-hf" --embed-model "sentence-transformers/all-mpnet-base-v2" --hf-api "api-key" --query "What are the number of parameters in LLaMA"
 \`\`\`
 
 ### Input Example:
