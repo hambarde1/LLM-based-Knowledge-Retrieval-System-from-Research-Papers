@@ -25,7 +25,7 @@ Before running the tool, make sure you have the following installed:
 To query the research papers in your dataset, use the following command:
 
 \`\`\`bash
-python main.py --data-directory "./data" --llm-model "meta-llama/Llama-2-7b-chat-hf" --embed-model "sentence-transformers/all-mpnet-base-v2" --hf-api "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" --query "What are the number of parameters in LLaMA"
+python main.py --data-directory "./data" --llm-model "meta-llama/Llama-2-7b-chat-hf" --embed-model "sentence-transformers/all-mpnet-base-v2" --hf-api "hugging_face api_key" --query "What are the number of parameters in LLaMA"
 \`\`\`
 
 ### Command Line Arguments:
@@ -43,7 +43,7 @@ python main.py --data-directory "./data" --llm-model "meta-llama/Llama-2-7b-chat
 ### Example Query:
 
 \`\`\`bash
-python main.py --data-directory "./data" --llm-model "meta-llama/Llama-2-7b-chat-hf" --embed-model "sentence-transformers/all-mpnet-base-v2" --hf-api "api-key" --query "What are the number of parameters in LLaMA"
+python main.py --data-directory "./data" --llm-model "meta-llama/Llama-2-7b-chat-hf" --embed-model "sentence-transformers/all-mpnet-base-v2" --hf-api "hugging_face api_key" --query "What are the number of parameters in LLaMA"
 \`\`\`
 
 ### Input Example:
