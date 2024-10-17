@@ -88,11 +88,7 @@ This tool uses the following models and resources:
 
 - **[LLaMA-2-7B](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf)**
 - **[Sentence Transformers](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)**
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
+  
 ---
 
 Feel free to reach out for any questions or issues related to this project. Happy querying!
